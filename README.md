@@ -1,31 +1,9 @@
-# Hi, I'm Daniel
+### hey, I just do what I like 👋
 
-Computer Science student @ IPCB • Backend-leaning dev focused on clean architectures, databases, and scalable APIs.
+I love recreational programming, building things because they're fun to figure out, not because they need to exist.
 
-## Tech Stack
+I'm into low-level software and genuinely enjoy learning how things work under the hood, one layer at a time.
 
-- Languages: Java, C#, C, JS, React, SQL
-- Backend: Spring Boot, .NET, REST APIs
-- Databases: PostgreSQL, SQL Server
-- Tools: Git, Docker, Linux (Arch)
+I'm a **vibe learner**: I use AI to learn concepts, then go implement everything myself. AI points me in the right direction; the code, the mistakes, and the understanding are mine.
 
-## What I’m Working On
-
-- A full-stack Gym Tracker application, currently working on the backend (.NET)
-- The backend of my Software Engineering course project (Spring Boot)
-- I spend mosst of my free time studying Operative Systems and learning RUST
-
-## Interests
-
-- Backend engineering, and database design
-- Low-level programming, computer organization, and performance
-- Strength training
-- F1
-- Music
-
-
-## Contacts
-
-- Email: `danielpadre58@gmail.com`
-  
-
+I mostly spend my day coding or learning a concept, it's the only thing left on life that is fun.
