@@ -1,4 +1,4 @@
-### hey, I just do what I like 👋
+### I just do what I like
 
 I love recreational programming, building things because they're fun to figure out, not because they need to exist.
 
