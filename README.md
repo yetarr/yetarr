@@ -1,7 +1,22 @@
-### I code whatever comes in mind
+## Welcome
+I am **yetar**, a backend-leaning software developer and Computer Science student with a growing focus on systems programming, backend architecture, and building tools from scratch to understand how they really work.
 
-I love recreational programming, building things because they're fun to figure out, not because they need to exist.
+## Skills
+  0) backend development (Java/Spring Boot, .NET/ASP.NET Core, PostgreSQL)
+  1) systems/low-level programming (Rustm with plans to learn C and C++)
+  2) REST API design and authentication (Spring Security, JWT)
+  3) database design and ORM work (JPA, Flyway migrations, MapStruct)
+  4) Linux systems administration (Arch Linux, Hyprland, from-scratch environment builds)
 
-I'm into low-level software and genuinely enjoy learning how things work under the hood, one layer at a time.
+## Interests
+  - backend architecture and API design
+  - systems programming and low-level computing
+  - Linux internals and window manager tooling (Hyprland ecosystem)
+  - building small clones of everyday tools (chat apps, wallpaper managers, editors) to learn how they work
+  - computer science coursework and self-directed learning
 
-I mostly spend my day coding or learning a concept, it's the only thing left on life that is fun.
+## Programming languages
+  - Java
+  - C#
+  - Go
+  - Rust
