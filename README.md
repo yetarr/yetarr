@@ -4,9 +4,9 @@ I am **yetar**, a backend-leaning software developer and Computer Science studen
 ## Skills
   0) backend development (Java/Spring Boot, .NET/ASP.NET Core, PostgreSQL)
   1) systems/low-level programming (Rust, with plans to learn C and C++)
-  2) REST API design and authentication (Spring Security, JWT)
-  3) database design and ORM work (JPA, Flyway migrations, MapStruct)
-  4) Linux systems administration (Arch Linux, Hyprland, from-scratch environment builds)
+  2) REST API design and authentication
+  3) database design and ORM work
+  4) Linux systems administration
 
 ## Interests
   - backend architecture and API design
