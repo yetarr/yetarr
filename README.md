@@ -2,9 +2,8 @@
 CS student who got way too into the idea of building things from scratch instead of just using them. mostly backend, increasingly systems-brained.
 
 ## what i actually do
-- backend stuff: java/spring, .net, postgres — the "make an app talk to a database" pipeline
+- backend stuff: java/spring, .net, postgres
 - rust for anything low-level, slowly adding C and C++ to the mix because apparently backend wasn't enough pain
-- APIs, auth, all the plumbing nobody notices until it breaks
 - enough linux admin to be dangerous
 
 ## rabbit holes i've fallen into
@@ -17,4 +16,4 @@ CS student who got way too into the idea of building things from scratch instead
 java, c#, go, rust — mood-based selection depending on what i'm procrastinating on that week (zig is next)
 
 ## currently
-building a language from scratch (send help)
+building a language (juno) from scratch (send help)
