@@ -1,22 +1,20 @@
-## Welcome
-I am **yetar**, a backend-leaning software developer and Computer Science student with a growing focus on systems programming, backend architecture, and building tools from scratch to understand how they really work.
+## salve, i'm yetar
+CS student who got way too into the idea of building things from scratch instead of just using them. mostly backend, increasingly systems-brained.
 
-## Skills
-  0) backend development (Java/Spring Boot, .NET/ASP.NET Core, PostgreSQL)
-  1) systems/low-level programming (Rust, with plans to learn C and C++)
-  2) REST API design and authentication
-  3) database design and ORM work
-  4) Linux systems administration
+## what i actually do
+- backend stuff: java/spring, .net, postgres — the "make an app talk to a database" pipeline
+- rust for anything low-level, slowly adding C and C++ to the mix because apparently backend wasn't enough pain
+- APIs, auth, all the plumbing nobody notices until it breaks
+- enough linux admin to be dangerous
 
-## Interests
-  - backend architecture and API design
-  - systems programming and low-level computing
-  - Linux internals and window manager tooling (Hyprland ecosystem)
-  - building small clones of everyday tools (chat apps, wallpaper managers, editors) to learn how they work
-  - computer science coursework and self-directed learning
+## rabbit holes i've fallen into
+- hyprland/wm tooling, because rice culture is a lifestyle
+- rebuilding boring everyday tools (chat apps, wallpaper switchers, editors) just to see how they actually work under the hood
+- currently: writing a compiler because i clearly hate free time (working through *Crafting Interpreters*)
+- also learning C via K&R, mostly so i stop being scared of pointers
 
-## Programming languages
-  - Java
-  - C#
-  - Go
-  - Rust
+## languages i reach for
+java, c#, go, rust — mood-based selection depending on what i'm procrastinating on that week (zig is next)
+
+## currently
+building a language from scratch (send help)
