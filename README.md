@@ -5,6 +5,5 @@ CS student who got way too into the idea of building things from scratch instead
 java, c#, go, rust, mood-based selection depending on what i'm procrastinating on that week (zig is next)
 
 ## currently
-- writing a compiler (working through *Crafting Interpreters*)
 - learning C++ with learncpp.com
 
